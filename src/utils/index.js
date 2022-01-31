@@ -24,7 +24,7 @@ class Movie {
     }
 };
 
-module.expors = {
+module.exports = {
     Movie,
     movieArray
 };
